@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chukjrk&show_icons=true&theme=radical&hide=contribs,prs)
+
 -->
 
 # Hi there! 👋 I'm CJ
@@ -56,7 +58,7 @@ Welcome to my GitHub! I'm a **Full Stack Engineer** passionate about building ro
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chukjrk&show_icons=true&theme=radical&hide=contribs,prs)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chukjrk&layout=compact&theme=radical)
 
