@@ -11,6 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| **Onwe Shift Dashboard** | A comprehensive shift management and scheduling dashboard with real-time updates and workforce analytics | TypeScript, React, Next.js | [Live](https://v0-onwe-shift-work-dashboard.vercel.app) |
+| **SDV** | Modern TypeScript-based project showcasing contemporary development practices | TypeScript | [Repo](https://github.com/chukjrk/sdv) |
+
+---
+
 -->
 
 # Hi there! 👋 I'm CJ
@@ -42,16 +51,6 @@ Welcome to my GitHub! I'm a **Full Stack Engineer** passionate about building ro
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| **Onwe Shift Dashboard** | A comprehensive shift management and scheduling dashboard with real-time updates and workforce analytics | TypeScript, React, Next.js | [Live](https://v0-onwe-shift-work-dashboard.vercel.app) |
-| **Kasava** | Full-stack application focused on seamless user experiences and scalable architecture | TypeScript, React | [Repo](https://github.com/benjamingregory/kasava) |
-| **SDV** | Modern TypeScript-based project showcasing contemporary development practices | TypeScript | [Repo](https://github.com/chukjrk/sdv) |
 
 ---
 
